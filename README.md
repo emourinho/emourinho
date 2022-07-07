@@ -6,13 +6,16 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-#### Sobre Mim
-- Sou desenvolvedor fullstack a mais de 10 anos!
-- Ja tabalhei com C#, VBA, Node e um pouquinho de C
-- Hoje lidero uma equipe de NodeJS
-- Tenho 2 Certificações Microsoft
+#### Perfil
+Sou apaixonado por tecnologia, tento sempre me manter atualizado e antenado as novas tendencias. (Já fui fã boy de c#/microsoft rs), mas hoje pesquiso e procuro usar a melhor ferramenta para cada problema.
+Acredito que programar é a minha arte e sempre do o melhor de mim para entregar a melhor solução.
+Fazer licenciatura em matemática me ajudou a me comunicar melhor, e assim entender bem a necessidade de cada problema.
+Como lider procuro extrair o que há de melhor em cada pessoa, e evoluir junto com elas.
 
-
+#### Skills
+12 anos de experiência na área de desenvolvimento de software, cujo adquiri conhecimentos em:
+JavaScript, TypeScript, HTML, CSS, React, C#, SQL, GIT, Docker, Kubernetes,
+AWS, SCRUM, GraphQL, REST, Entre outras...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emourinho&show_icons=true&theme=radical)
 
